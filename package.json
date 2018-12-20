@@ -1,0 +1,25 @@
+{
+  "name": "restify_node_rest",
+  "version": "1.0.0",
+  "description": "Create a real REST API with database integration and token authentication using Node.js with Restify, Mongoose/MongoDB and JWT.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Belchenkov/restify_customer_api.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Restify",
+    "Mongoose/MongoDB",
+    "JWT"
+  ],
+  "author": "Aleksey Belchenkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Belchenkov/restify_customer_api/issues"
+  },
+  "homepage": "https://github.com/Belchenkov/restify_customer_api#readme"
+}
